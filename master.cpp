@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout << "Firsst master commit\n";
+	std::cout << "Second master commit\n";
+	const int a = 0;
 	return 0;
 }
 
