@@ -1,8 +1,9 @@
 #include <iostream>
+#include <string>
 
 int main()
 {
-	std::cout << "Firsst master commit\n";
+	std::string str("Hello");
 	return 0;
 }
 
